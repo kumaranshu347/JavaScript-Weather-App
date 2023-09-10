@@ -1,17 +1,6 @@
-<<<<<<< HEAD
 # weather app 
-=======
-# Weather app 
->>>>>>> 6c18f74801035f1f733897427fe2cb61ff3b3768
 html ,css and javascript project.
 Built a javaScript weather app styled with CSS, powered by server APIs for real-time data fetching.
 
-<<<<<<< HEAD
-•	Built a javaScript weather app styled with CSS, powered by server APIs for real-time data fetching
-
 # Live Link :
   https://anshuweather.netlify.app/
-=======
-# Live Link : 
-https://anshuweather.netlify.app/
->>>>>>> 6c18f74801035f1f733897427fe2cb61ff3b3768
